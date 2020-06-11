@@ -1,0 +1,3 @@
+id: "20200611113106.06353185"
+project-name: java-openliberty-custom
+stack: default-route-openshift-image-registry.apps.ter-598-upgrade-4.cp.fyre.ibm.com/kabanero/java-openliberty:0.2
